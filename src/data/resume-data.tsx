@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Django and Postgres. I have over 5 years of experience working at successful startups as well as big enterprise companies.",
   avatarUrl: "/avatartion.png",
-  personalWebsiteUrl: "https://phandang.me",
+  personalWebsiteUrl: "https://pdang.vercel.app/",
   contact: {
     email: "philip.ddang@gmail.com",
     tel: "",
