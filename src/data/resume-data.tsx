@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Irvine, CA",
   locationLink: "https://www.google.com/maps/place/Irvine,+CA/",
   about:
-    "Full Stack Engineer @ US Data Networks.",
+    "Director of Software Engineering @ US Data Networks.",
   summary:
     "I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Django and Postgres. I have over 5 years of experience working at successful startups as well as big enterprise companies.",
   avatarUrl: "/avatartion.png",
@@ -44,7 +44,7 @@ export const RESUME_DATA = {
         url: "https://www.linkedin.com/in/phanddang/",
         icon: LinkedInIcon,
       },
-     
+
     ],
   },
   education: [
@@ -66,7 +66,7 @@ export const RESUME_DATA = {
       company: "US Data Networks",
       link: "https://usdatanetworks.com",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      title: "Director of Software Engineering",
       logo: ParabolLogo,
       start: "2021",
       end: "2024",
@@ -77,7 +77,7 @@ export const RESUME_DATA = {
       company: "Innophase Inc.",
       link: "https://innophaseinc.com",
       badges: ["San Diego, CA"],
-      title: "Software Engineer/IT",
+      title: "Software Engineer",
       logo: ClevertechLogo,
       start: "2015",
       end: "2021",
@@ -143,7 +143,7 @@ export const RESUME_DATA = {
     },
     {
       title: "Covid-19-tracker",
-      techStack: ["Side Project", "TypeScript","RapidAPI"],
+      techStack: ["Side Project", "TypeScript", "RapidAPI"],
       description:
         "A Covid-19 tracker that displays the latest data and statistics about the Coronavirus pandemic",
       logo: MonitoLogo,
@@ -185,6 +185,6 @@ export const RESUME_DATA = {
         href: "https://useminimal.com/",
       },
     },
-   
+
   ],
 } as const;
